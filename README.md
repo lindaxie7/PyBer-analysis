@@ -9,6 +9,7 @@ Through analysis and aggregation of PyBers ride sharing data, I have created a s
 ![Untitled](https://user-images.githubusercontent.com/38533045/128641850-3e21c8ba-169f-410f-8c04-e9a6437caa65.png)
 
 A multiple-line graph that shows the total weekly fares for each city type as below:
+![Untitled](https://user-images.githubusercontent.com/38533045/128641892-b614f4d6-46d7-4ca9-a94b-7aa490565583.png)
 
 By reviewing the summary we can see that there are several key findings including:
 

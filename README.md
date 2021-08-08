@@ -29,4 +29,4 @@ Increasing the amount of drivers in Rural areas to ensure there are enough drive
 
 Data for rural cities shows that the average fare per ride and average fare per driver is much higher than Suburban and urban cities.This can indicate that rural area based riders are taking trips over a longer distance. This can result in a majority of drivers being occupied with current trips and loss in potential revenue when there are peaks in business.
 
-We can see that there is a revenue peak for all city types, so it might also be the good timing to increase drivers for all areas. 
+We can see that there is a revenue peak for all city types at the third week of Feb, so it might also be the good timing to increase drivers for all areas. 

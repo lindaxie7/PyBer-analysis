@@ -6,8 +6,9 @@ The purpose of this project is to create a summary DataFrame of the ride-sharing
 ## Results
 
 Through analysis and aggregation of PyBers ride sharing data, I have created a summary DataFrame of the ride-sharing data by city type:
+![Untitled](https://user-images.githubusercontent.com/38533045/128641850-3e21c8ba-169f-410f-8c04-e9a6437caa65.png)
 
-
+A multiple-line graph that shows the total weekly fares for each city type as below:
 
 By reviewing the summary we can see that there are several key findings including:
 

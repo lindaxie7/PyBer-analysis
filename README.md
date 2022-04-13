@@ -1,4 +1,5 @@
-[Python Code](quora.com/profile/Ashish-Kulkarni-100)
+# Python Code
+[Code](https://github.com/lindaxie7/PyBer-analysis/blob/main/PyBer_Challenge_starter_code.ipynb)
 # PyBer-analysis
 
 ## Overview of Project

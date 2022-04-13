@@ -1,6 +1,6 @@
 # PyBer-analysis
 
-[Code](https://github.com/lindaxie7/PyBer-analysis/blob/main/PyBer_Challenge_starter_code.ipynb)
+[Python Code](https://github.com/lindaxie7/PyBer-analysis/blob/main/PyBer_Challenge_starter_code.ipynb)
 
 ## Overview of Project
 The purpose of this project is to create a summary DataFrame of the ride-sharing data by city type, and then create a multiple-line graph that shows the total weekly fares for each city type, to analyze how the data differs by city type, and how those differences can be used by decision-makers at PyBer, provide business recommendations to the CEO for addressing any disparities among the city types.

@@ -1,5 +1,5 @@
 Python Code
-[Code](https://github.com/lindaxie7/PyBer-analysis/blob/main/PyBer_Challenge_starter_code.ipynb)
+[PyBer-analysis](https://github.com/lindaxie7/PyBer-analysis/blob/main/PyBer_Challenge_starter_code.ipynb)
 # PyBer-analysis
 
 ## Overview of Project
